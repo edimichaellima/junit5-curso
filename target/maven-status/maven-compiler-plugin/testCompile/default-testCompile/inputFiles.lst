@@ -1,0 +1,15 @@
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/infra/UsuarioDummyRepository.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/ContaTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/infra/UserServiceComUserMemoryRepositoryTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/CalculadoraMockTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/service/UsuarioServiceTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/builders/BuilderMasterPOJO.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/builders/ContaBuilder.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/builders/TransacaoBuilder.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/builders/UsuarioBuilder.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/builders/BuilderMaster.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/suite/SuiteTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/domain/UsuarioTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/service/TransacaoServiceTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/CalculadoraTest.java
+/home/assum/eclipse-workspace/junit5-curso/src/test/java/br/com/assum/barriga/service/ContaServiceTest.java

@@ -1,0 +1,14 @@
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/ContaService.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/infra/UsuarioMemoryRepository.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/repositories/ContaRepository.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/domain/exceptions/ValidationException.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/extermal/ClockService.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/UsuarioService.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/TransacaoService.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/repositories/UsuarioRepository.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/domain/Conta.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/Calculadora.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/domain/Transacao.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/extermal/ContaEvent.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/service/repositories/TransacaoDao.java
+/home/assum/eclipse-workspace/junit5-curso/src/main/java/br/com/assum/barriga/domain/Usuario.java
